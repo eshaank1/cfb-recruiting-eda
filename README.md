@@ -5,6 +5,7 @@ talent, returning production, and the transfer portal explain a team's
 winning percentage from season to season.
 
 **Authors:** Eshaan Kumar and Monte Horwitz
+
 **CSE 163 Final Project, Fall 2026**
 
 ## Research questions
