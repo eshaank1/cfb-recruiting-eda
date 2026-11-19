@@ -1,0 +1,26 @@
+portal_raw: 14422 rows x 10 columns
+
+Missing values:
+              n_missing  pct_missing
+season                0     0.000000
+firstName             0     0.000000
+lastName              0     0.000000
+position              0     0.000000
+origin                0     0.000000
+destination        3971    27.534323
+transferDate          0     0.000000
+rating             7802    54.097906
+stars              1596    11.066426
+eligibility           0     0.000000
+
+Seven-number summary:
+            mean      std   min   25%   50%   75%  max
+rating  0.853971  0.03274  0.73  0.83  0.85  0.87  1.0
+
+Value counts for season:
+season
+2025    4499
+2024    3378
+2023    2502
+2022    2273
+2021    1770

@@ -1,0 +1,17 @@
+returning: 1555 rows x 6 columns
+
+Missing values:
+          n_missing  pct_missing
+team_key          0          0.0
+season            0          0.0
+ret_ppa           0          0.0
+ret_pass          0          0.0
+ret_rush          0          0.0
+ret_rec           0          0.0
+
+Seven-number summary:
+              mean       std      min     25%    50%     75%     max
+ret_ppa   0.571500  0.253515   -3.100  0.3945  0.594  0.7520   1.700
+ret_pass  0.384839  4.150611 -129.500  0.1040  0.710  0.9670   9.500
+ret_rush  0.547774  2.906888  -45.500  0.3110  0.624  0.9030  76.667
+ret_rec   0.571501  0.223998   -0.426  0.4105  0.584  0.7405   1.200

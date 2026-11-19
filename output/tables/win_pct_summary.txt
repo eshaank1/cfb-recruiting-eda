@@ -1,0 +1,33 @@
+win_pct: 1643 rows x 9 columns
+
+Missing values:
+               n_missing  pct_missing
+team_key               0     0.000000
+season                 0     0.000000
+team                   0     0.000000
+wins                   0     0.000000
+games                  0     0.000000
+conference             0     0.000000
+win_pct                0     0.000000
+prior_win_pct        188    11.442483
+delta_win            188    11.442483
+
+Seven-number summary:
+              mean       std  min        25%   50%        75%   max
+wins      6.381619  2.816746  0.0   4.000000   6.0   8.000000  13.0
+games    12.017651  0.670633  8.0  12.000000  12.0  12.000000  14.0
+win_pct   0.528281  0.223806  0.0   0.333333   0.5   0.666667   1.0
+
+Value counts for conference:
+conference
+ACC                  189
+SEC                  186
+Big Ten              180
+Conference USA       161
+American Athletic    154
+Sun Belt             149
+Mid-American         148
+Mountain West        147
+Big 12               146
+Pac-12               124
+FBS Independents      59

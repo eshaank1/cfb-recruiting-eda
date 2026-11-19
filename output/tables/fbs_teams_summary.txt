@@ -1,0 +1,26 @@
+fbs_teams: 1691 rows x 4 columns
+
+Missing values:
+            n_missing  pct_missing
+team                0          0.0
+team_key            0          0.0
+season              0          0.0
+conference          0          0.0
+
+Seven-number summary:
+               mean      std     min     25%     50%     75%     max
+season  2019.072738  3.74814  2013.0  2016.0  2019.0  2022.0  2025.0
+
+Value counts for conference:
+conference
+ACC                  189
+Big Ten              188
+SEC                  186
+Conference USA       164
+Mid-American         160
+Mountain West        156
+American Athletic    156
+Sun Belt             149
+Big 12               146
+Pac-12               136
+FBS Independents      61

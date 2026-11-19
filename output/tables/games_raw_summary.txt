@@ -1,0 +1,47 @@
+games_raw: 28339 rows x 34 columns
+
+Missing values:
+                            n_missing  pct_missing
+id                                  0     0.000000
+season                              0     0.000000
+week                                0     0.000000
+seasonType                          0     0.000000
+startDate                           0     0.000000
+startTimeTBD                        0     0.000000
+completed                           0     0.000000
+neutralSite                         0     0.000000
+conferenceGame                      0     0.000000
+attendance                      16338    57.651999
+venueId                           139     0.490490
+venue                             139     0.490490
+homeId                              0     0.000000
+homeTeam                            0     0.000000
+homeClassification                 81     0.285825
+homeConference                     81     0.285825
+homePoints                          8     0.028230
+homeLineScores                     11     0.038816
+homePostgameWinProbability      15053    53.117612
+homePregameElo                  18512    65.323406
+homePostgameElo                 18526    65.372808
+awayId                              0     0.000000
+awayTeam                            0     0.000000
+awayClassification                426     1.503229
+awayConference                    426     1.503229
+awayPoints                          7     0.024701
+awayLineScores                     11     0.038816
+awayPostgameWinProbability      15053    53.117612
+awayPregameElo                  18994    67.024242
+awayPostgameElo                 19008    67.073644
+excitementIndex                 15895    56.088782
+highlights                      25126    88.662268
+notes                           27905    98.468542
+playoff                         28339   100.000000
+
+Seven-number summary:
+                mean        std  min   25%   50%   75%   max
+homePoints  29.81635  15.686713  0.0  18.0  28.0  41.0  98.0
+awayPoints  24.44335  14.583203  0.0  14.0  23.0  34.0  91.0
+
+Value counts for seasonType:
+seasonType
+regular    28339

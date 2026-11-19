@@ -1,0 +1,41 @@
+merged: 1643 rows x 23 columns
+
+Missing values:
+                   n_missing  pct_missing
+team_key                   0     0.000000
+season                     0     0.000000
+team                       0     0.000000
+wins                       0     0.000000
+games                      0     0.000000
+conference                 0     0.000000
+win_pct                    0     0.000000
+prior_win_pct            188    11.442483
+delta_win                188    11.442483
+talent_4yr               135     8.216677
+ret_ppa                  140     8.520998
+ret_pass                 140     8.520998
+ret_rush                 140     8.520998
+ret_rec                  140     8.520998
+n_in                     979    59.586123
+rated_in                 979    59.586123
+rating_in                979    59.586123
+n_out                    979    59.586123
+rated_out                979    59.586123
+rating_out               979    59.586123
+net_portal_talent        979    59.586123
+share_rated_in           997    60.681680
+post_portal                0     0.000000
+
+Seven-number summary:
+                         mean        std        min         25%        50%         75%         max
+win_pct              0.528281   0.223806   0.000000    0.333333    0.50000    0.666667    1.000000
+prior_win_pct        0.529397   0.223682   0.000000    0.333333    0.50000    0.666667    1.000000
+delta_win            0.001368   0.219817  -0.833333   -0.166667    0.00000    0.166667    0.679487
+talent_4yr         172.523014  54.983787  18.140000  129.060625  168.71125  205.533125  322.227500
+ret_ppa              0.570715   0.252398  -3.100000    0.395000    0.59100    0.749000    1.700000
+net_portal_talent    0.523238   4.879412 -13.840000   -2.100000    0.00000    3.072500   20.890000
+
+Value counts for post_portal:
+post_portal
+False    979
+True     664

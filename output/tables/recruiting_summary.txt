@@ -1,0 +1,13 @@
+recruiting: 3099 rows x 5 columns
+
+Missing values:
+        n_missing  pct_missing
+year            0          0.0
+team            0          0.0
+rank            0          0.0
+points          0          0.0
+season          0          0.0
+
+Seven-number summary:
+              mean        std   min     25%     50%      75%     max
+points  118.382014  85.035048 -0.11  30.265  123.56  183.115  333.13
